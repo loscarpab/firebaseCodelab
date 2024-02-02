@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666035024014",
+    "project_id": "ccormor392codelab",
+    "storage_bucket": "ccormor392codelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666035024014:android:bfffd2f7703ff2092e59df",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrt0AG0aJotbi9UTKs3zY60dtS7LLJyFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
